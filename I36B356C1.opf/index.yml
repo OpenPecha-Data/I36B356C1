@@ -1,0 +1,279 @@
+id: 24c0cea63d234c3fa1f2172df7a9e517
+annotation_type: index
+revision: '00001'
+annotations:
+  c072244c76794e53b0137736857d8669:
+    base: 7618.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 214
+    - title: I. Nidāna
+      span:
+        start: 215
+        end: 2976
+    - title: II. Upodghāta
+      span:
+        start: 2977
+        end: 32278
+    - title: III. Dharmamūla
+      span:
+        start: 32279
+        end: 32716
+    - title: '1st akṣaya: Cittotpāda'
+      span:
+        start: 32717
+        end: 37722
+    - title: IV. Tatphala
+      span:
+        start: 37723
+        end: 37733
+    - title: '2nd akṣaya: Āshaya'
+      span:
+        start: 37734
+        end: 40671
+    - title: '3rd akṣaya: Prayoga'
+      span:
+        start: 40672
+        end: 46174
+    - title: '4th akṣaya: Adhyāshaya'
+      span:
+        start: 46175
+        end: 49899
+    - title: V. Svaparārthakriyā
+      span:
+        start: 49900
+        end: 49910
+    - title: '5th akṣaya: Dāna'
+      span:
+        start: 49911
+        end: 58763
+    - title: '6th akṣaya: Śīla'
+      span:
+        start: 58764
+        end: 66793
+    - title: '7th akṣaya: Kṣānti'
+      span:
+        start: 66794
+        end: 78897
+    - title: '8th akṣaya: Vīrya'
+      span:
+        start: 78898
+        end: 95538
+    - title: '9th akṣaya: Dhyāna'
+      span:
+        start: 95539
+        end: 109173
+    - title: '10th akṣaya: Prajnyā'
+      span:
+        start: 109174
+        end: 152362
+    - title: VI. Kṛpā
+      span:
+        start: 152363
+        end: 152373
+    - title: '11th akṣaya: Maitrī'
+      span:
+        start: 152374
+        end: 158077
+    - title: '12th akṣaya: Karuṇā'
+      span:
+        start: 158078
+        end: 162845
+    - title: '13th akṣaya: Muditā'
+      span:
+        start: 162846
+        end: 166318
+    - title: '14th akṣaya: Upekṣā'
+      span:
+        start: 166319
+        end: 170261
+    - title: VII. Pariṣkāra
+      span:
+        start: 170262
+        end: 170489
+    - title: '15th aksaya: Divyacakṣuḥ'
+      span:
+        start: 170490
+        end: 174478
+    - title: '16th aksaya: Divyashrotra'
+      span:
+        start: 174479
+        end: 179141
+    - title: '17th akṣaya: Paracittajnyāna'
+      span:
+        start: 179142
+        end: 184115
+    - title: '18th aksaya: Pūrvanivāsānusmṛti'
+      span:
+        start: 184116
+        end: 187531
+    - title: '19th aksaya: Ṛddhividhijnyāna_abhijnyā'
+      span:
+        start: 187532
+        end: 192161
+    - title: VIII. Paripākabala
+      span:
+        start: 192162
+        end: 192172
+    - title: '20th-23rd aksaya: Saṃgrahavastu'
+      span:
+        start: 192173
+        end: 196061
+    - title: IX. Nirdeshabalaprāpti
+      span:
+        start: 196062
+        end: 196312
+    - title: '24th aksaya: Arthapratisaṃvid'
+      span:
+        start: 196313
+        end: 200125
+    - title: '25th aksaya: Dharmapratisaṃvid'
+      span:
+        start: 200126
+        end: 202654
+    - title: '26th aksaya: Niruktipratisaṃvid'
+      span:
+        start: 202655
+        end: 204352
+    - title: '27th aksaya: Pratibhānapratisaṃvid'
+      span:
+        start: 204353
+        end: 206433
+    - title: X. Tadupāyajnyāna
+      span:
+        start: 206434
+        end: 206756
+    - title: '28th akṣaya: Arthapratisaraṇa'
+      span:
+        start: 206757
+        end: 210165
+    - title: '29th akṣaya: Jnyānapratisaraṇa'
+      span:
+        start: 210166
+        end: 211818
+    - title: '30th akṣaya: Nītārthasūtrapratisaraṇa'
+      span:
+        start: 211819
+        end: 213697
+    - title: '31th akṣaya: Dharmatāpratisaraṇa'
+      span:
+        start: 213698
+        end: 215426
+    - title: XI. Saṃbhāramārga
+      span:
+        start: 215427
+        end: 215541
+    - title: '32nd akṣaya: Puṇyasaṃbhāra'
+      span:
+        start: 215542
+        end: 220398
+    - title: '33rd akṣaya: Jnyānasaṃbhāra'
+      span:
+        start: 220399
+        end: 227761
+    - title: XII. Prayogamārga
+      span:
+        start: 227762
+        end: 228098
+    - title: '34th akṣaya: Kāyasmṛtyupasthāna'
+      span:
+        start: 228099
+        end: 231968
+    - title: '35th akṣaya: Vedanāsmṛtyupasthāna'
+      span:
+        start: 231969
+        end: 235707
+    - title: '36th akṣaya: Cittasmṛtyupasthāna'
+      span:
+        start: 235708
+        end: 240471
+    - title: '37th akṣaya: Kāyasmṛtyupasthāna'
+      span:
+        start: 240472
+        end: 244165
+    - title: '38th-41st akṣaya: Catuḥsamyakprahāṇa'
+      span:
+        start: 244166
+        end: 248780
+    - title: '42nd-45th akṣaya: Caturṛddhipāda'
+      span:
+        start: 248781
+        end: 250329
+    - title: '45th-50th akṣaya: Panyca_indriya'
+      span:
+        start: 250330
+        end: 252849
+    - title: '51st-55th akṣaya: Panycabala'
+      span:
+        start: 252850
+        end: 255451
+    - title: XIII. Darshanamārga
+      span:
+        start: 255452
+        end: 255462
+    - title: '56th-62nd akṣaya: Saptabodhyangga'
+      span:
+        start: 255463
+        end: 258623
+    - title: XIV. Bhāvanāmārga
+      span:
+        start: 258624
+        end: 258634
+    - title: '63rd-70th akṣaya: Āryāṣṭānggamārga'
+      span:
+        start: 258635
+        end: 262445
+    - title: XV. Tatprayoga
+      span:
+        start: 262446
+        end: 262551
+    - title: '71st akṣaya: Śamatha'
+      span:
+        start: 262552
+        end: 263868
+    - title: '72nd akṣaya: Vipashyanā'
+      span:
+        start: 263869
+        end: 265778
+    - title: XVI. Vyākaraṇaprāpti
+      span:
+        start: 265779
+        end: 265878
+    - title: '73rd akṣaya: Dhāraṇī'
+      span:
+        start: 265879
+        end: 266642
+    - title: '74th akṣaya: Pratibhāna'
+      span:
+        start: 266643
+        end: 268313
+    - title: XVII. Tatprāptivyavasthāpanā
+      span:
+        start: 268314
+        end: 268324
+    - title: '75th – 78th akṣaya: Dharmoddāna'
+      span:
+        start: 268325
+        end: 269846
+    - title: XVIII. Pratyekabodhi
+      span:
+        start: 269847
+        end: 269857
+    - title: '79th akṣaya: Ekāyano Mārgaḥ'
+      span:
+        start: 269858
+        end: 271561
+    - title: XIX. Dharmacakrapravartana
+      span:
+        start: 271562
+        end: 271572
+    - title: '80th akṣaya: Upāya'
+      span:
+        start: 271573
+        end: 274213
+    - title: XX. Parindanā
+      span:
+        start: 274214
+        end: 287645

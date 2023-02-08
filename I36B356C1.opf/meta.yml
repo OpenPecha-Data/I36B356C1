@@ -1,0 +1,16 @@
+id: I36B356C1
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:48:39.529866
+last_modified: 2023-02-08 14:48:39.530100
+source_metadata:
+  title: Akṣayamatinirdeśa
+  language: bo
+bases:
+  '7618':
+    base_file: 7618.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
